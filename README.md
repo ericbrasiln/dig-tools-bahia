@@ -1,8 +1,8 @@
-# Ferramentas digitais para pesquisa e ensino a partir da visão de docentes de IES federais no estado
+# Desafios e Expectativas da prática da História na era digital: Percepções de docentes de História nas Instituições Federais de Ensino Superior na Bahia.
 
-Repostório relativo à esscrita de artigo científico a partir da pesquisa do [PIBIC História Digital: acervos e ferramentas digitais para pesquisa e ensino](https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC).
+Repositório relativo à escrita de artigo científico a partir da pesquisa do [PIBIC História Digital: acervos e ferramentas digitais para pesquisa e ensino](https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC).
 
-Autores/as: Priscila Valverde, Ana Carolina Veloso, Eric Brasil.
+**Autores/as**: Priscila Valverde Silveira, Ana Carolina Veloso, Eric Brasil.
 
 ---
 
